@@ -84,6 +84,14 @@ Contributing
 
 Community contributions will be welcome once the initial project structure, contribution guidelines, and licensing are established.
 
+
+## Project Presentation
+
+Explore the complete concept, gameplay vision, educational approach, and development roadmap:
+
+📄 [Download the CODEBOUND Project Presentation (PDF)](CODEBOUND_Project_Presentation.pdf)
+
+*CODEBOUND is currently in pre-production. The illustrations are AI-generated concept art, not gameplay screenshots.*
 ⸻
 
 CODEBOUND | Learn to Code. Break the System.
